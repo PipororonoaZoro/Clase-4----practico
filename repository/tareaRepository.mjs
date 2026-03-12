@@ -2,7 +2,7 @@ import fs from 'fs'; // Importamos el módulo del sistema de archivos de Node.js
 import path from 'path'; // Módulo para manejar rutas de archivos
 import { fileURLToPath } from 'url'; // Para obtener la ruta del archivo actual
 // Importamos la interfaz de persistencia
-import TareasDataSource from '../data/TareasDataSource.mjs';
+import TareasDataSource from '../repository/tareasDataSource.mjs';
 import Tarea from '../models/tarea.mjs'; // Importamos el modelo tarea
 
 // Obtener la ruta del archivo de tareas
