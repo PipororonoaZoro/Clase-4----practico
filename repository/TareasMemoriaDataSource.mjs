@@ -1,4 +1,4 @@
-import TareasDataSource from './tareasDataSource.mjs';
+import tareasDataSource from './tareasDataSource.mjs';
 import Tarea from '../models/tarea.mjs';
 
 export default class TareasMemoriaDataSource extends TareasDataSource {
