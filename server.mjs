@@ -8,7 +8,7 @@ import
             completarTareaController,
             eliminarTareaController
         }
-from './controllers/tareaController.mjs';
+from './controllers/tareaControllers.mjs';
 
 const app = express(); // Inicializamos una aplicacion de Express
 const PORT = 3000; // Definimos el puerto en el que escuchará el servidor
