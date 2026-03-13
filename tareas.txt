@@ -16,5 +16,12 @@
     "titulo": "Tarea 3",
     "descripcion": "Descripción de tarea 3",
     "completado": false
-  }
+  },
+  {
+    "id": "Maciel",
+    "titulo": "Tarea de PipoZoro",
+    "descripcion": "Usando el número 666",
+    "completado": false
+  },
+ 
 ]
