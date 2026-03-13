@@ -1,9 +1,9 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "titulo": "Tarea 1",
     "descripcion": "Descripción de tarea 1",
-    "completado": false
+    "completado": true
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "id": "Maciel",
     "titulo": "Tarea de PipoZoro",
     "descripcion": "Usando el número 666",
-    "completado": false
+    "completado": true
   },
   {
     "id": 4,
