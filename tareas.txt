@@ -1,11 +1,5 @@
 [
   {
-    "id": "1",
-    "titulo": "Tarea 1",
-    "descripcion": "Descripción de tarea 1",
-    "completado": true
-  },
-  {
     "id": "2",
     "titulo": "Tarea 2",
     "descripcion": "Descripción de tarea 2",

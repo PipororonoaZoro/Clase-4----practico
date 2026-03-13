@@ -43,6 +43,6 @@ export function completarTareaController(req, res)
 export function eliminarTareaController(req, res)
 {
     const { id } = req.params;
-    eliminarTarea(parseInt(id));
+    eliminarTarea((id));
     res.send(renderizarMensaje('Tarea eliminada con éxito'));
 }
