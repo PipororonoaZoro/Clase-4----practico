@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Tarea 1",
     "descripcion": "Descripción de tarea 1",
-    "completado": false
+    "completado": true
   },
   {
     "id": 2,

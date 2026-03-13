@@ -22,7 +22,7 @@ export function listarTareasCompletadas()
 }
 
 // Servicio para crear una nueva tarea
-export function crearTarea(id, titulo, descripcion, completado = false)
+export function crearTarea(id, titulo, descripcion, completado = true)
 {
     // Obtiene todas las tareas
     const tareas = tareaRepo.obtenerTodas();

@@ -1,23 +1,16 @@
 {
-  "name": "clase4_",
+  "name": "clase4",
   "version": "1.0.0",
   "description": "Practico N°4",
   "main": "index.js",
   "scripts": {
+    "start": "node server.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PipororonoaZoro/Clase-4----practico.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/PipororonoaZoro/Clase-4----practico/issues"
-  },
-  "homepage": "https://github.com/PipororonoaZoro/Clase-4----practico#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
