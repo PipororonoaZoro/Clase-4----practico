@@ -6,13 +6,13 @@
     "completado": true
   },
   {
-    "id": 2,
+    "id": "2",
     "titulo": "Tarea 2",
     "descripcion": "Descripción de tarea 2",
     "completado": true
   },
   {
-    "id": 3,
+    "id": "3",
     "titulo": "Tarea 3",
     "descripcion": "Descripción de tarea 3",
     "completado": true
@@ -24,7 +24,7 @@
     "completado": true
   },
   {
-    "id": 4,
+    "id": "4",
     "titulo": "Tarea 4",
     "descripcion": "Descripcion de tarea 4",
     "completado": false
